@@ -1,0 +1,11 @@
+# compiled binaries
+Task*/*
+!Task*/*.c
+!Task*/*.sh
+!Task*/*.txt
+!Task*/*.yaml
+!Task*/*.md
+!Task*/outputs/
+*.dat
+*.db
+.DS_Store
